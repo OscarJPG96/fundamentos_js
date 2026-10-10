@@ -21,9 +21,11 @@ let anio = 2026;
 anio ++
  console.log(anio);
 
-//-- disminuir
 
+//-- disminuir
 let pension = 62;
 pension --
  console.log(pension);
 
+
+ 

@@ -33,6 +33,12 @@ console.log(x > 2);//true
  //operador >= mayor o igual que
 console.log(x >= 4);// true
 console.log(x >= 5);//true
- console.log(x >= 6);//false
- 
+console.log(x >= 6);//false
+
+// operador <= menor o igual que
+console.log(x <= 4);//false
+console.log(x <= 5);//true
+console.log(x <= 6);//true
+
+
 
